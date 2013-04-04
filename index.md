@@ -9,4 +9,4 @@ tagline: self.__init__()
 
 Suivez nos aventures au Vietnam sur [Github](http://geeksinvietnam.github.com) et [Twitter](http://twitter.com/geeksinvietnam)… comme ça vous saurez si ça compile.
 
-J-0x5 :)
+J-0x3 :)
