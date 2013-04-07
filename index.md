@@ -7,6 +7,6 @@ tagline: self.__init__()
 
 ## Un voyage au Vietnam
 
-Suivez nos aventures au Vietnam sur [Github](http://geeksinvietnam.github.com) et [Twitter](http://twitter.com/geeksinvietnam)… comme ça vous saurez si ça compile.
+Suivez nos aventures au Vietnam sur [Github](http://geeksinvietnam.github.io) et [Twitter](http://twitter.com/geeksinvietnam)… comme ça vous saurez si ça compile.
 
-J-0x3 :)
+J-0x1 :)
