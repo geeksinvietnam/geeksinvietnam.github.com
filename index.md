@@ -9,4 +9,6 @@ tagline: self.__init__()
 
 Suivez nos aventures au Vietnam sur [Github](http://geeksinvietnam.github.io) et [Twitter](http://twitter.com/geeksinvietnam)… comme ça vous saurez si ça compile.
 
-J-0x1 :)
+J0x1, Ho Chi Minh Ville (Saïgon).
+
+
