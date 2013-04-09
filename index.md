@@ -9,6 +9,14 @@ tagline: self.__init__()
 
 Suivez nos aventures au Vietnam sur [Github](http://geeksinvietnam.github.io) et [Twitter](http://twitter.com/geeksinvietnam)… comme ça vous saurez si ça compile.
 
-J0x1, Ho Chi Minh Ville (Saïgon).
+Aujourd'hui : J0x2, Hồ Chí Minh Ville (Saïgon).
 
-
+<section class="content">
+  <ul class="listing">
+    {% for post in site.posts %}
+    <li>
+      <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
