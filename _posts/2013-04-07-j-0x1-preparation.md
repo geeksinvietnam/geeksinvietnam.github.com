@@ -9,7 +9,7 @@ Départ demain, on prépare les sacs à l'arrache. Enfin « demain »… Ça s
 
 L'important est qu'à l'aube (~9 h 30 CEST), les bagages sont prêts.
 
-# TODO photo sac d'Albin
+<img src="/images/20130407-sac-albin.jpg" style="width:50%" />
 # TODO photo sac de Jérémie
 
 Le sac de l'appareil photo refuse vilement de rentrer dans le sac à dos, bien que l'un et l'autres aient été choisis en fonction de leurs dimensions qui laissaient envisager un transport de bagage unique. Tant pis, Jérémie voyagera avec un « sac à ventre ».
