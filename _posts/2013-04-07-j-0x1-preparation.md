@@ -7,7 +7,7 @@ tags: []
 ---
 Départ demain, on prépare les sacs à l'arrache. Enfin « demain »… Ça se termine tard dans la nuit.
 
-L'important est qu'à l'aube (~9 h 30 CEST), les bagages sont prêts.
+L'important est qu'à l'aube (~9 h 30 CEST), les bagages soient prêts.
 
 <img src="/images/20130407-sac-albin.jpg" style="width:50%" />
 # TODO photo sac de Jérémie
