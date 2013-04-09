@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Hello World!
-tagline: self.__init__()
 ---
 {% include JB/setup %}
 
@@ -11,12 +9,18 @@ Suivez nos aventures au Vietnam sur [Github](http://geeksinvietnam.github.io) et
 
 Aujourd'hui : J0x2, Hồ Chí Minh Ville (Saïgon).
 
-<section class="content">
-  <ul class="listing">
-    {% for post in site.posts %}
-    <li>
-      <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
+{% for post in site.posts limit: 5 %}
+<div class="page-header">
+  <h1>
+    <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date:"%Y-%m-%d" }})
+    {% if post.tagline %}
+      <small>{{ post.tagline }}</small>
+    {% endif %}
+  </h1>
+</div>
+<div class="row">
+ <div class="span8">
+  {{ post.content }}
+ </div>
+</div>
+{% endfor %}

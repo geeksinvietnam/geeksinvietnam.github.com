@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Préparation"
+title: "J-0x1 — Préparation"
 description: "C'est l'histoire de deux geeks qui partent au Vietnam à l'arrache."
 category:
 tags: []
