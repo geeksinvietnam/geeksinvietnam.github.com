@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "J0x1 — Arrivée à Ho Chi Minh Ville"
+title: "J0x1 — Arrivée à Hồ-Chí-Minh-Ville"
 description: ""
 category:
-tags: [Ho Chi Minh Ville]
+tags: [Hồ-Chí-Minh-Ville]
 ---
 
 Après une nuit assez catastrophique (sympa cet avion mais il n'ont pas implémenté le mode silencieux), nous entamons un bon petit déjeuner :
