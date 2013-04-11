@@ -53,16 +53,16 @@ Nous voici donc enfin au Musée de la Guerre du Vietnam, anciennement Musée des
 <a href="/images/20130410-war-museum-tank.jpg"><img src="/images/20130410-war-museum-tank_thumb.jpg" style="height:130px;float:left;margin:2px" title="Ce tank lançait des obus, mais d'autres étaient équipés de lance-flammes." /></a>
 <br style="clear:both"/>
 
-A l'extérieur du musée sont exposés quelques mortiers, tanks, blindés et autres avions et hélicoptères, mais c'est à l'intérieur que se trouve l'essentiel de la collection : de très nombreuses photographies, dont beaucoup semblent participer au concours de la pire atrocité. Instruments de torture, effets de l'agent Orange, cratères des bombes… on ne montre pas de photos pour éparger vos cœurs sensibles.
+A l'extérieur du musée sont exposés quelques mortiers, tanks, blindés et autres avions et hélicoptères, mais c'est à l'intérieur que se trouve l'essentiel de la collection : de très nombreuses photographies, dont beaucoup semblent participer au concours de la pire atrocité. Instruments de torture, effets de l'agent Orange, cratères des bombes… on ne montre pas de photos pour épargner vos cœurs sensibles.
 
-Finalement, peut-être que l'ancien nom du musée était peut-être plus approprié.
+Finalement, peut-être que l'ancien nom du musée était plus approprié.
 
 Après un repas dans ce qui ressemble à un fast-food local (saucisses-frites), nous partons à la recherche d'une pagode un peu isolée dans le nord de la ville, la pagode de l'empereur de Jade.
 
 <a href="/images/20130410-pagode-de-l-empereur-de-jade-autel-face.jpg"><img src="/images/20130410-pagode-de-l-empereur-de-jade-autel-face_thumb.jpg" style="height:150px;float:left;margin:2px" title="L'autel principal, vu de face" /></a>
 <a href="/images/20130410-pagode-de-l-empereur-de-jade-autel-cote.jpg"><img src="/images/20130410-pagode-de-l-empereur-de-jade-autel-cote_thumb.jpg" style="height:150px;float:left;margin:2px" title="Le même, vu de côté." /></a>
-<a href="/images/20130410-pagode-de-l-empereur-de-jade-petite-statue.jpg"><img src="/images/20130410-pagode-de-l-empereur-de-jade-petite-statue_thumb.jpg" style="height:300px;float:left;margin:2px" title="Une des petites statues qui ornent les différents murs des différents pièces de la pagode." /></a>
 <a href="/images/20130410-pagode-de-l-empereur-de-jade-autel-foule.jpg"><img src="/images/20130410-pagode-de-l-empereur-de-jade-autel-foule_thumb.jpg" style="height:150px;float:left;margin:2px" title="La pagode était remplie de monde, et pas de touristes." /></a>
+<a href="/images/20130410-pagode-de-l-empereur-de-jade-petite-statue.jpg"><img src="/images/20130410-pagode-de-l-empereur-de-jade-petite-statue_thumb.jpg" style="height:300px;float:left;margin:2px" title="Une des petites statues qui ornent les différents murs des différents pièces de la pagode." /></a>
 <br style="clear:both"/>
 
 Normalement, une pagode est un temple bouddhiste, mais celle-ci est surtout taoïste.
