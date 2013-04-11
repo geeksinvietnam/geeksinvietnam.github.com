@@ -25,7 +25,7 @@ Nous passons devant le siège du Comité du Peuple et l'Opéra…
 
 Nos pas nous mènent ensuite au niveau de la poste centrale dont on devine (avec l'aide des bouquins, certes, mais juré, on aurait deviné quand même) qu'elle est l'œuvre d'un certain Gustave Eiffel.
 
-# TODO FIXME poste
+<a href="/images/20130410-poste-centrale.jpg"><img src="/images/20130410-poste-centrale_thumb.jpg" style="height:300px;float:left;margin:2px" title="La poste centrale en panoramique grace à Hugin." /></a>
 <br style="clear:both"/>
 
 Nous apercevons également l'Hôtel Continental (en français toujours — c'est à l'origine le nom d'un hôtel parisien) qui est, paraît-il, plus connu que les autres (construit par des français en 1880).
