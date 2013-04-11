@@ -74,6 +74,8 @@ Le retour s'effectue en taxi et nous nous rendons compte que nous avons énormé
 <a href="/images/20130410-planning.jpg"><img src="/images/20130410-planning_thumb.jpg" style="height:300px;float:left;margin:2px" title="Établir un programme, c'est plus de boulot qu'il n'y paraît" /></a>
 <br style="clear:both"/>
 
+Nous dînons à proximité de notre hôtel. Pas de photo, puisque Jérémie a oublié 1) la batterie du reflex à l'hôtel 2) qu'il avait un compact pour faire face à ce genre de situation.
+
 Après dîner, nous nous offrons une glace « supreme size » dans un établissement spécialisé.
 
 <a href="/images/20130410-glace-albin.jpg"><img src="/images/20130410-glace-albin_thumb.jpg" style="height:300px;float:left;margin:2px" title="Glace mangue pour Albin" /></a>
