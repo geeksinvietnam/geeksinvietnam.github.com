@@ -12,9 +12,9 @@ Après une nuit assez catastrophique (sympa cet avion, mais ils n'ont pas implé
 <a href="/images/20130409-petit-dej.jpg"><img src="/images/20130409-petit-dej_thumb.jpg" style="height:150px;float:left;margin:2px" title="Petit déjeuner en gros plan" /></a>
 <br style="clear:both"/>
 
-Nous atterrissons à Hồ-Chí-Minh-Ville. Il est 6 h 25, heure locale. À la sortie de l'avion, on ressent déjà une grande chaleur et un taux d'humidité dont nous n'avons pas l'habitude.
+Nous atterrissons à Hồ-Chí-Minh-Ville. Il est 6 h 25, heure locale. À la sortie de l'avion, nous ressentons déjà une grande chaleur et un taux d'humidité dont nous n'avons pas l'habitude.
 
-Nous restons en compagnie de notre voisine de voyage (Franca) avec qui nous nous sommes mis d'accord pour partager un taxi afin de se rendre au centre ville, nos hotels n'étant pas très loin l'un de l'autre.
+Nous restons en compagnie de notre voisine de voyage (Franca) avec qui nous nous sommes mis d'accord pour partager un taxi afin de se rendre au centre ville, nos hôtels n'étant pas très loin l'un de l'autre.
 Check du visa : OK. On récupère nos bagages :
 
 <a href="/images/20130409-bagages-albin.jpg"><img src="/images/20130409-bagages-albin_thumb.jpg" style="height:300px;float:left;margin:2px" title="Bagages d'Albin" /></a>
@@ -26,7 +26,7 @@ Nous voici dans les calculs arithméthiques pour retirer de l'argent. Il semble 
 <a href="/images/20130409-dab.jpg"><img src="/images/20130409-dab_thumb.jpg" style="height:150px;float:left;margin:2px" title="Eh oui, que de tracas pour un bête distributeur de billets…" /></a>
 <br style="clear:both"/>
 
-Nous repérons un taxi (ou plutôt : un taxi nous repère). Franca semble douée en affaires ; on la laisse négocier les tarifs avec le conducteur, mais on n'arrivera pas à descendre en dessous de 200 VND (contre 150 VND indiqués dans nos guides). Le trajet vers le centre ville nous donne un aperçu assez fou de cette ville qui fourmille de motos et scooters.
+Nous repérons un taxi (ou plutôt : un taxi nous repère). Franca semble douée en affaires ; on la laisse négocier les tarifs avec le conducteur, mais on n'arrivera pas à descendre en dessous de 200 000 VND (contre 150 000 VND indiqués dans nos guides). Le trajet vers le centre ville nous donne un aperçu assez fou de cette ville qui fourmille de motos et scooters.
 
 On arrive à notre hôtel, plutôt classe finalement pour la ville :
 
@@ -49,7 +49,7 @@ Nous nous aventurons ensuite dans la ville pour une petite balade. On s'arrête 
 La circulation est toujours aussi impressionnante. Pour traverser, il faut y aller sans crainte, marcher doucement et à vitesse constante et les véhicules nous évitent (merci Florent pour la technique). C'est surprenant mais « Je suis assez fan, dommage qu'ils roulent doucement, j'irais plus vite qu'eux avec un Vélib :) » (Albin).
 
 <a href="/images/20130409-cyclos-jour.jpg"><img src="/images/20130409-cyclos-jour_thumb.jpg" style="height:150px;float:left;margin:2px" title="Des cyclos devant, derrière, à gauche, à droite… de jour" /></a>
-<a href="/images/20130409-cyclos-nuit.jpg"><img src="/images/20130409-cyclos-nuit_thumb.jpg" style="height:130px;float:left;margin:2px" title="… comme de nuit" /></a>
+<a href="/images/20130409-cyclos-nuit.jpg"><img src="/images/20130409-cyclos-nuit_thumb.jpg" style="height:150px;float:left;margin:2px" title="… comme de nuit" /></a>
 <br style="clear:both"/>
 
 On passe par un marché de rue. Certains clients y font leurs courses sans même descendre de leurs scooter :
