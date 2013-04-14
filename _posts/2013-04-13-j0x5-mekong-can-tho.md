@@ -89,9 +89,17 @@ Tout au long de notre voyage en bateau à bord de notre super bateau,
 <a href="/images/20130413-en-bateau1.jpg"><img src="/images/20130413-en-bateau1_thumb.jpg" style="height:150px;float:left;margin:2px" title="Faite coucou à la petite enfant !" /></a>
 <br style="clear:both"/>
 
-Il est désormais tant de reprendre la route direction Hồ-Chí-Minh-Ville. Nous y dînons, puis prenons un train de nuit direction Nha Trang :
+Il est désormais tant de reprendre la route direction Hồ-Chí-Minh-Ville, 4 heure de route ! Nous y dînons, puis prenons un train de nuit direction Nha Trang :
 
-INSERT PHOTO HERE !!!
+<a href="/images/20130413-train-controleuse.jpg"><img src="/images/20130413-train-controleuse_thumb.jpg" style="height:150px;float:left;margin:2px" title="Controleuse" /></a>
+<a href="/images/20130413-train-couchettes.jpg"><img src="/images/20130413-train-couchettes_thumb.jpg" style="height:150px;float:left;margin:2px" title="4 couchettes par compartiments, les notres au dessus" /></a>
+<br style="clear:both"/>
+
+Et bien sûr, on ne perd jamais de temps, on pense au blog malgré notre retard !
+
+<a href="/images/20130413-blog-gare.jpg"><img src="/images/20130413-blog-gare_thumb.jpg" style="height:150px;float:left;margin:2px" title="Dans la gare" /></a>
+<a href="/images/20130413-train-blog.jpg"><img src="/images/20130413-train-blog_thumb.jpg" style="height:150px;float:left;margin:2px" title="Et une fois dans le train !" /></a>
+<br style="clear:both"/>
 
 Bonne nuit !
 
