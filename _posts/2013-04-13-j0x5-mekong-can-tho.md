@@ -1,27 +1,27 @@
 ---
 layout: post
-title: "J0x5 — Visite autour de Can Tho (Mekong)"
+title: "J0x5 — Visite du delta du Mekong, autour de Can Tho"
 description: ""
 category:
 tags: [Mekong]
 ---
 
-Après notre nuit à Can Tho, nous voilà reparti pour une deuxième journée avec notre groupe. Debout 6h (avec le réveil de notre guide). Les locaux semblent déjà réveillés depuis lontemps :
+Après notre nuit à Can Tho, nous voila repartis pour une deuxième journée avec notre groupe. Debout à 6 h (avec un coup de téléphone de notre guide pour nous réveiller — deux fois). Les locaux semblent déjà réveillés depuis lontemps.
 
-<a href="/images/20130413-can-tho.jpg"><img src="/images/20130413-can-tho_thumb.jpg" style="height:150px;float:left;margin:2px" title="rue de Can Tho" /></a>
+<a href="/images/20130413-can-tho.jpg"><img src="/images/20130413-can-tho_thumb.jpg" style="height:150px;float:left;margin:2px" title="Rue de Can Tho" /></a>
 <br style="clear:both"/>
 
-Nous prenons un bateau en direction des marchés flottants. Sur notre route, nous apercevons différents types de chargements assez surprenants, un pêcheur et un  marché :
+Nous prenons un bateau en direction des marchés flottants. Sur notre route, nous apercevons différents types de chargements assez surprenants, un pêcheur et un marché.
 
-<a href="/images/20130413-transport.jpg"><img src="/images/20130413-transport_thumb.jpg" style="height:150px;float:left;margin:2px" /></a>
-<a href="/images/20130413-peche.jpg"><img src="/images/20130413-peche_thumb.jpg" style="height:150px;float:left;margin:2px" title="Pêcheur près de Can Tho" /></a>
-<a href="/images/20130413-marche-au-sol.jpg"><img src="/images/20130413-marche-au-sol_thumb.jpg" style="height:150px;float:left;margin:2px" title="Marché au sol" /></a>
+<a href="/images/20130413-transport.jpg"><img src="/images/20130413-transport_thumb.jpg" style="height:150px;float:left;margin:2px" title="Transport de bois" /></a><!-- TODO crop -->
+<a href="/images/20130413-peche.jpg"><img src="/images/20130413-peche_thumb.jpg" style="height:150px;float:left;margin:2px" title="Pêcheur près de Can Tho" /></a><!-- TODO crop -->
+<a href="/images/20130413-marche-au-sol.jpg"><img src="/images/20130413-marche-au-sol_thumb.jpg" style="height:150px;float:left;margin:2px" title="Marché au sol" /></a><!-- TODO crop? -->
 <br style="clear:both"/>
 
 On arrive au marché flottant, c'est assez surprenant mais des photos valent mieux qu'un long discours :
 
-<a href="/images/20130413-marches-flottants1.jpg"><img src="/images/20130413-marches-flottants1_thumb.jpg" style="height:150px;float:left;margin:2px" title="Marché flottant" /></a>
-<a href="/images/20130413-marches-flottants2.jpg"><img src="/images/20130413-marches-flottants2_thumb.jpg" style="height:150px;float:left;margin:2px" title="Marché flottant" /></a>
+<a href="/images/20130413-marches-flottants1.jpg"><img src="/images/20130413-marches-flottants1_thumb.jpg" style="height:150px;float:left;margin:2px" title="Marché flottant" /></a><!-- TODO crop -->
+<a href="/images/20130413-marches-flottants2.jpg"><img src="/images/20130413-marches-flottants2_thumb.jpg" style="height:150px;float:left;margin:2px" title="Marché flottant" /></a><!-- TODO crop -->
 <a href="/images/20130413-marches-flottants3.jpg"><img src="/images/20130413-marches-flottants3_thumb.jpg" style="height:150px;float:left;margin:2px" title="Marché flottant" /></a>
 <a href="/images/20130413-marches-flottants4.jpg"><img src="/images/20130413-marches-flottants4_thumb.jpg" style="height:150px;float:left;margin:2px" title="Marché flottant" /></a>
 <a href="/images/20130413-marches-flottants6.jpg"><img src="/images/20130413-marches-flottants6_thumb.jpg" style="height:150px;float:left;margin:2px" title="Marché flottant" /></a>
@@ -29,8 +29,8 @@ On arrive au marché flottant, c'est assez surprenant mais des photos valent mie
 
 Lors de notre traversée du marché, on croise quelques petits bateaux qui vendent café, thé, boissons et même ananas aux touristes (le ventre d'Albin n'a pu s'empêcher de manger un ananas entier, très bon !) :
 
-<a href="/images/20130413-marches-flottants5.jpg"><img src="/images/20130413-marches-flottants5_thumb.jpg" style="height:150px;float:left;margin:2px" title="Marché flottant" /></a>
-<a href="/images/20130413-marches-flottants7.jpg"><img src="/images/20130413-marches-flottants7_thumb.jpg" style="height:150px;float:left;margin:2px" title="Marché flottant" /></a>
+<a href="/images/20130413-marches-flottants5.jpg"><img src="/images/20130413-marches-flottants5_thumb.jpg" style="height:150px;float:left;margin:2px" title="Jeune vendeur d'ananas" /></a>
+<a href="/images/20130413-marches-flottants7.jpg"><img src="/images/20130413-marches-flottants7_thumb.jpg" style="height:150px;float:left;margin:2px" title="Moins jeune vendeuse d'ananas, préparé à la demande" /></a>
 <br style="clear:both"/>
 
 Ensuite, nous prenons la direction d'une fabrique de noodles (pates de riz japonaises). La recette consiste à mélanger riz moulu, eau et tapioca pour obtenir une pate blanche assez liquide qu'ils font cuire comme une crêpe :
@@ -102,5 +102,7 @@ Et bien sûr, on ne perd jamais de temps, on pense au blog malgré notre retard 
 <br style="clear:both"/>
 
 Bonne nuit !
+
+<!-- TODO ref Wang & Aurélie, Solène & Nicolas -->
 
 {% include JB/setup %}
