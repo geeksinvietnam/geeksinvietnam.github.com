@@ -27,7 +27,7 @@ Nous faisons un premier arrêt dans un petit village où, tout en dégustant un 
 <a href="/images/20130412-spectacle.jpg"><img src="/images/20130412-spectacle_thumb.jpg" style="height:150px;float:left;margin:2px" title="Quatre musiciens, deux chanteuses, un chanteur (absent de la photo)" /></a>
 <br style="clear:both"/>
 
-Après une courte marche entre les cocotiers et les bananiers, nous montons ensuite à bord d'une petite embarquation pour visiter les canaux.
+Après une courte marche entre les cocotiers et les bananiers, nous montons à bord d'une petite embarquation pour visiter les canaux.
 À peine au dessus du niveau de l'eau, nous nous déplaçons entre les arbres, suivant et croisant des barques similaires.
 
 <a href="/images/20130412-bateau-1-1.jpg"><img src="/images/20130412-bateau-1-1_thumb.jpg" style="height:150px;float:left;margin:2px" title="C'est plus impressionnant lorsqu'on essaie de monter à bord." /></a>
