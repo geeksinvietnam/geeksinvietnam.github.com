@@ -7,7 +7,7 @@ layout: page
 
 Suivez nos aventures au Vietnam sur [Github](http://geeksinvietnam.github.io) et [Twitter](http://twitter.com/geeksinvietnam)… comme ça vous saurez si ça compile.
 
-Aujourd'hui : J0x8, villages autour de Nha Trang.
+Aujourd'hui : J0xB, campagne autour de Hội An.
 
 {% for post in site.posts limit: 5 %}
 <div class="page-header">
